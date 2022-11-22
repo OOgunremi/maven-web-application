@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="images/lekanlogo.jpeg" rel="icon">
 </head>
 </head>
 <body>
@@ -31,10 +31,9 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/lekanlogo.jpeg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
 		Kincora Glen Park,
 		NW, Calgary
 		+1-403-681-9075
@@ -47,8 +46,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center>Lekan Ogunremi</p>
+<p align=center><small>Copyrights 2022 by <a href="https://lekanogunremi.com/">Lekan Ogunremi,Calgary</a> </small></p>
 
 </body>
 </html>
