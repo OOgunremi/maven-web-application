@@ -14,7 +14,7 @@
 <hr>
 <br>
 <span>
-	<img src="images/lekanlogo.jpeg" alt="" width="1000">
+	<img src="images/isaac.jpg" alt="" width="500">
 </span>
 	<!-- <h1><h3> Server Side IP Address </h3><br>
 
