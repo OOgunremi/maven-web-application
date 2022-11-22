@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions. Bengaluru,Karnataka </h1>
-<h1 align="center"> Mithun Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to lekanOgunremi.com </h1>
+<h1 align="center"> Leading DevOps Cloud Engineer in Canada</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -35,12 +35,12 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+91-9980923226
-		devopstrainingblr@gmail.com
+		Kincora Glen Park,
+		NW, Calgary
+		+1-403-681-9075
+		OOOgunremi@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:OOOgunremi@gmail.com">Mail to Lekan Ogunremi</a>
 	</span>
 </div>
 <hr>
