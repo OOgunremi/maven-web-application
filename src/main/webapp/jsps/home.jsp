@@ -4,14 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>Lekan Ogunremi- Home Page</title>
 <link href="images/lekanlogo.jpeg" rel="icon">
 </head>
 </head>
 <body>
 <h1 align="center">Welcome to lekanOgunremi.com </h1>
 <h1 align="center"> Leading DevOps Cloud Engineer in Canada</h1>
-<hr>
+<!-- <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
 
@@ -28,7 +28,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <h1><h3> Client Side IP Address </h3><br>
 <%out.print( "Client IP Address :: " + request.getRemoteAddr() ); %><br>
 <%out.print( "Client Name Host :: "+ request.getRemoteHost() );%><br></h1>
-<hr>
+<hr> -->
 <div style="text-align: center;">
 	<span>
 		<img src="images/lekanlogo.jpeg" alt="" width="100">
@@ -43,7 +43,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 </div>
 <hr>
-	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
+	<!-- <p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p> -->
 <hr>
 <hr>
 <p align=center>Lekan Ogunremi</p>
