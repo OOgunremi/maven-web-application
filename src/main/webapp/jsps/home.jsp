@@ -11,9 +11,12 @@
 <body>
 <h1 align="center">Welcome to lekanOgunremi.com </h1>
 <h1 align="center"> Leading DevOps Cloud Engineer in Canada</h1>
-<!-- <hr>
+<hr>
 <br>
-	<h1><h3> Server Side IP Address </h3><br>
+<span>
+	<img src="images/lekanlogo.jpeg" alt="" width="1000">
+</span>
+	<!-- <h1><h3> Server Side IP Address </h3><br>
 
 <% 
 String ip = "";
@@ -27,8 +30,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <br>
 <h1><h3> Client Side IP Address </h3><br>
 <%out.print( "Client IP Address :: " + request.getRemoteAddr() ); %><br>
-<%out.print( "Client Name Host :: "+ request.getRemoteHost() );%><br></h1>
-<hr> -->
+<%out.print( "Client Name Host :: "+ request.getRemoteHost() );%><br></h1> -->
+<hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/lekanlogo.jpeg" alt="" width="100">
