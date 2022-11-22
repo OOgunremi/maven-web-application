@@ -33,7 +33,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <%out.print( "Client Name Host :: "+ request.getRemoteHost() );%><br></h1> -->
 <hr>
 <div style="text-align: center;">
-	<span>
+	<span align=center>
 		<img src="images/lekanlogo.jpeg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
